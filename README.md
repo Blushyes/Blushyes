@@ -8,5 +8,5 @@
 
 几个有趣的插件：
 
-- [Flow Mark](https://chromewebstore.google.com/detail/kbmjedeepcglnmllaklecppgijhgggdg?utm_source=item-share-cb) - 收藏时由 AI 自动帮你整理书签。
+- [Flow Mark](https://github.com/Blushyes/flowmark) - 收藏时由 AI 自动帮你整理书签。
 - [Reply Bird](https://chromewebstore.google.com/detail/nfjmhefldacnkagjdekejhlbcpigofjj?utm_source=item-share-cb) - 自动保存你的 X 浏览记录到本地。
