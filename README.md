@@ -10,3 +10,6 @@
 
 - [Flow Mark](https://github.com/Blushyes/flowmark) - 收藏时由 AI 自动帮你整理书签。
 - [Reply Bird](https://chromewebstore.google.com/detail/nfjmhefldacnkagjdekejhlbcpigofjj?utm_source=item-share-cb) - 自动保存你的 X 浏览记录到本地。
+
+一些自用的 skills：
+- [project-bootstrap](https://github.com/Blushyes/project-bootstrap) - 各类型项目的脚手架，方便快速起项目。
