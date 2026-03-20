@@ -10,3 +10,6 @@
 
 - [Flow Mark](https://github.com/Blushyes/flowmark) - 收藏时由 AI 自动帮你整理书签。
 - [Reply Bird](https://chromewebstore.google.com/detail/nfjmhefldacnkagjdekejhlbcpigofjj?utm_source=item-share-cb) - 自动保存你的 X 浏览记录到本地。
+
+小工具：
+- [keepscreen](https://github.com/Blushyes/keep-screen) - 一键设置屏幕常量和还原。
