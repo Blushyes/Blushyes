@@ -5,6 +5,7 @@
 - [如快](https://sofast.fun) - 一款基于 **Tauri** 构建的 `Raycast-like` 跨平台启动器，轻量、快速、高颜值的 Raycast 跨平台替代。
 - [Chronnote](https://chronnote.top) - 和朋友一起开发的一款 `All In One` 的 **AI Native** 笔记软件。
 - [Coro Code](https://github.com/blushyes/coro-code) - 基于 **Rust** 构建的一款开源的类 `Claude Code` Coding Agent。
+- [Reef](https://github.com/Blushyes/reef) - 基于 **Rust** 构建的 AI 时代最小开发者 `TUI` 工作台，AI 写代码，你审代码，Reef 只做后一半，告别臃肿 vsocde。
 
 几个有趣的插件：
 
