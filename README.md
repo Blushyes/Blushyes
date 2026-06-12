@@ -14,3 +14,4 @@
 
 小工具：
 - [keepscreen](https://github.com/Blushyes/keep-screen) - 一键设置屏幕常亮和还原。
+- [jot](https://github.com/Blushyes/jot) - 给你的 Agent 一个 todolist，让他帮你记住待办。
